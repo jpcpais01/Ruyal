@@ -1,33 +1,33 @@
 # dependencies
-/node_modules
-/.pnp
-.pnp.js
+ruyal/node_modules
+ruyal/.pnp
+ruyal/.pnp.js
 
 # testing
-/coverage
+ruyal/coverage
 
 # next.js
-/.next/
-/out/
+ruyal/.next/
+ruyal/out/
 
 # production
-/build
+ruyal/build
 
 # misc
 .DS_Store
 *.pem
 
 # debug
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+ruyal/npm-debug.log*
+ruyal/yarn-debug.log*
+ruyal/yarn-error.log*
 
 # local env files
-.env*.local
+ruyal/.env*.local
 
 # vercel
-.vercel
+ruyal/.vercel
 
 # typescript
-*.tsbuildinfo
-next-env.d.ts
+ruyal/*.tsbuildinfo
+ruyal/next-env.d.ts
